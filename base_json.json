@@ -1,0 +1,17 @@
+{
+   "emp1": {
+      "name": "Petrov",
+      "post": "operator",
+      "salary": "10000"
+   },
+   "emp2": {
+      "name": "Ivanov",
+      "post": "direktor",
+      "salary": "30000"
+   },
+   "emp3": {
+      "name": "Sidor",
+      "post": "director",
+      "salary": "30000"
+   }
+}

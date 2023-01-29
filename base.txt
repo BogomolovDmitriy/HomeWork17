@@ -1,0 +1,3 @@
+Petrov operator 10000
+Ivanov direktor 30000
+Sidor director 30000
